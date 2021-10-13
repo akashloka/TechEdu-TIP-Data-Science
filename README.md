@@ -1,1 +1,1 @@
-# TechEdu-TIP---Data-Science
+# TechEdu-TIP-Data-Science
